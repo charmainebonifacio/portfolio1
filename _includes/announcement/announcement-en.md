@@ -1,16 +1,8 @@
 <ul>
   <li>
-    <p><time datetime="2015-05-15 19:00">May 5, 2015</time> Ut enim ad minim veniam</p>
+    <p><time datetime="2015-06-01 09:00">June 1, 2015</time> The Research Data Centres (RDC) Program</p>
     <p>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      I've recently joined The Research Data Centres (RDC) Program by the MicroData Access Division in Statistics Canada. I'm part of the Prairie Regional Research Data Centre within the University of Lethbridge. For more information, check out the <a href="http://www.statcan.gc.ca/eng/rdc/index">RDC</a> site.
     </p>
   </li>
-
-  <li>
-    <p><time datetime="2015-05-15 19:00">May 5, 2015</time> Excepteur sint occaecat cupidatat non proident</p>
-    <p>
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    </p>
-  </li>
-
 </ul>
