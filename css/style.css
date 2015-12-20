@@ -61,9 +61,9 @@ strong, th {
 }
 
 #home-content {
-  margin: 120px 0 2% 5%;
-  max-width: 900px;
-  padding-right: 9%;
+  margin: 110px 0 2% 5%;
+  max-width: 1000px;
+  padding-left: 10%;
 }
 
 #announcements {
@@ -237,12 +237,8 @@ a {
   font-size: 11px;
 }
 
-#sponsorship, #sponsorship a {
-  color: #7DBD33;
-}
-
-#sponsorship h3 {
-  color: #08592B;
+#coding a {
+  color: #FF9933;
 }
 
 header {
@@ -345,7 +341,7 @@ html[xmlns] .clearfix {
 }
 
 #boxes div {
-  width: 215px;
+  width: 210px;
   margin-right: 50px;
   float: left;
   list-style: none;
@@ -590,7 +586,7 @@ footer {
 
 #navbar {
   padding-left: 10%;
-  max-width: 1193px;
+  max-width: 1100px;
   position: relative;
 }
 
@@ -613,9 +609,9 @@ footer {
   padding: 0;
   margin: 0;
   position: absolute;
-  right: 183px;
+  right: 15px;
   top: 15px;
-  padding-left: 5%;
+  padding-right: 0%;
   z-index: 1000;
 }
 
@@ -703,12 +699,12 @@ footer {
 
 
 /* hash link scroll buffer */
-h2 a:before { 
-  display: block; 
-  content: ' '; 
-  margin-top: -40px; 
-  height: 40px; 
-  visibility: hidden; 
+h2 a:before {
+  display: block;
+  content: ' ';
+  margin-top: -40px;
+  height: 40px;
+  visibility: hidden;
 }
 
 h2 a {
@@ -773,7 +769,7 @@ h2 a {
 
   #home-content {
     margin: 100px 0 0 5%;
-    padding-right: 5%;
+    padding-right: 0%;
   }
 
   #description {
@@ -838,11 +834,12 @@ h2 a {
   #navbar a {
     font-size: 19px;
     margin: 0;
-    padding-left: 5%;
+    margin-right: 10px;
   }
 
   #navmenu {
     left: 0;
+    right: 10px;
     padding: 0;
     top: 2px;
     background: #fff;

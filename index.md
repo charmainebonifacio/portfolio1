@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Express - Node.js web application framework
+title: Charmaine Bonifacio
 menu: home
 lang: en
 ---
@@ -8,37 +8,40 @@ lang: en
 <section id="home-content">
     {% include header/header-{{ page.lang }}.html %}
     <div id="overlay"></div>
-    <section id="description"><a href="/" class="express">Express</a><span class="description">Fast, unopinionated, minimalist web framework for <a href='http://nodejs.org'>Node.js</a></span>
+    <section id="description">
+      <span class="express">Currently pursuing a Master of Science degree in Geography</span>
+      <span class="description">University of Lethbridge</span>
     </section>
-    <div id="install-command">$ npm install express --save</div>
-</section>
-
-<section id="doc-langs" markdown="1">
-  Express docs available in other languages: [Spanish](/es), [Japanese](/ja), [Russian](/ru), [Chinese](/zh), [Korean](/ko).
 </section>
 
 <section id="intro">
 
   <div id="boxes" class="clearfix">
-      <div id="web-applications">
-          <h3>Web Applications</h3> Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
+      <div id="research">
+          <h3>RESEARCH</h3> My current research requires an intensive amount of pre-processing and post-processing data for the Agricultural Catchments Research Unit (ACRU) hydrological model.
       </div>
 
-      <div id="apis">
-          <h3>APIs</h3> With a myriad of HTTP utility methods and middleware at your disposal, creating a robust API is quick and easy.
+      <div id="coding">
+          <h3>CODING</h3> There's always the need to learn new artificial languages and improve our current knowledge. Check out my <a href="http://www.github.com/charmainebonifacio">Github</a> page for a list of tools I have created.
       </div>
 
-      <div id="performance">
-          <h3>Performance</h3> Express provides a thin layer of fundamental web application features, without obscuring Node features that you know and love.
+      <div id="teaching">
+          <h3>TEACHING</h3> All graduate students teach a laboratory or tutorial course every Fall/Spring semesters within their respective departments, as per the 2013 ULETH graduate program.
       </div>
 
-      <div id="sponsorship">
-          <a href="http://loopback.io/"><h3>LoopBack</h3> Develop model-driven apps with an Express-based framework.<br/>Find out more at loopback.io.</a>
+      <div id="service">
+          <h3>SERVICE</h3> I have been involved in various student organizations around campus and community organizations around Lethbridge.</a>
       </div>
   </div>
-
 </section>
 
-<!-- <section id="announcements">
+<section id="announcements">
   {% include announcement/announcement-{{ page.lang }}.md %}
-</section> -->
+</section>
+
+<!--
+<section id="doc-langs" markdown="1">
+  For a more detail information, check out my profile on [LinkedIN](https://ca.linkedin.com/in/charmainebonifacio).
+  <!--, [Japanese](/ja), [Russian](/ru), [Chinese](/zh), [Korean](/ko).
+</section>
+-->
