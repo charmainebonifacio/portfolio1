@@ -17,18 +17,7 @@
             <a href="{% if page.lang != 'en' %}/{{ page.lang }}{% endif %}/about/awards.html"{% if page.menu == 'about' %} class="active"{% endif %}><i class="fa fa-trophy fa-lg"></i></a>
           </li>
           <li>
-              <ul id="guide-menu" class="menu">
-                  <li><a href="{% if page.lang != 'en' %}/{{ page.lang }}{% endif %}/research/interests.html"{% if page.menu == 'research' %} class="active"{% endif %}><i class="fa fa-briefcase fa-lg"></i></a>
-                      <ul>
-                          <li><a href="{% if page.lang != 'en' %}/{{ page.lang }}{% endif %}/research/interests.html">Research Interests</a>
-                          </li>
-                          <li><a href="{% if page.lang != 'en' %}/{{ page.lang }}{% endif %}/research/publication.html">Publication</a>
-                          </li>
-                          <li><a href="{% if page.lang != 'en' %}/{{ page.lang }}{% endif %}/research/presentation.html">Presentation</a>
-                          </li>
-                      </ul>
-                  </li>
-              </ul>
+              <a href="{% if page.lang != 'en' %}/{{ page.lang }}{% endif %}/research/interests.html"{% if page.menu == 'research' %} class="active"{% endif %}><i class="fa fa-briefcase fa-lg"></i></a>
           </li>
           <li>
             <a href="{% if page.lang != 'en' %}/{{ page.lang }}{% endif %}/research/code.html"{% if page.menu == 'research' %} class="active"{% endif %}><i class="fa fa-code fa-lg"></i></a>
@@ -37,11 +26,7 @@
             <a href="{% if page.lang != 'en' %}/{{ page.lang }}{% endif %}/teaching/courses.html"{% if page.menu == 'teaching' %} class="active"{% endif %}><i class="fa fa-pencil fa-lg"></i></a>
           </li>
           <li>
-              <ul id="resources-menu" class="menu">
-                  <li>
-                    <a href="{% if page.lang != 'en' %}/{{ page.lang }}{% endif %}/service/list.html"{% if page.menu == 'resources' %} class="active"{% endif %}><i class="fa fa-pagelines fa-lg"></i></a>
-                  </li>
-              </ul>
+            <a href="{% if page.lang != 'en' %}/{{ page.lang }}{% endif %}/service/list.html"{% if page.menu == 'service' %} class="active"{% endif %}><i class="fa fa-pagelines fa-lg"></i></a>
           </li>
           <li>
             <a href="https://ca.linkedin.com/in/charmainebonifacio" id="home-menu"><i class="fa fa-linkedin fa-lg"></i></a>
