@@ -8,8 +8,6 @@ permalink: pretty
 markdown: kramdown
 highlighter: pygmentsl
 exclude:
-    - Gemfile
-    - Gemfile.lock
     - LICENSE
     - README.md
     - CNAME
