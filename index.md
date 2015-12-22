@@ -38,10 +38,3 @@ lang: en
 <section id="announcements">
   {% include announcement/announcement-{{ page.lang }}.md %}
 </section>
-
-<!--
-<section id="doc-langs" markdown="1">
-  For a more detail information, check out my profile on [LinkedIN](https://ca.linkedin.com/in/charmainebonifacio).
-  <!--, [Japanese](/ja), [Russian](/ru), [Chinese](/zh), [Korean](/ko).
-</section>
--->

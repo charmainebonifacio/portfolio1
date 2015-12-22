@@ -11,7 +11,6 @@ lang: en
 **"Improvements of Physically-Based Hydrological Modelling using the ACRU Agro-Hydrological Modelling System"**
 - poster presentation at the American Geophysical Union 2014 (submitted August 2014) - pending
 
-<br />
 
 ##UNDERGRADUATE:##
 **"Income Polarization in Calgary's Neighbourhoods (1995-2005)**

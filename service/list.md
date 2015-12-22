@@ -12,7 +12,6 @@ lang: en
  - Conference Chair, Session Judge and Poster Reviewer, 8th Annual Meeting of the Minds Conference held at the University of Lethbridge in March 2014
  - Conference Volunteer Coordinator, 55th Annual Meeting of the Western Division of Canadian Association of Geographers (WDCAG) held at the University of Lethbridge in March 2013
 
-<br />
 
 ## Community
 
