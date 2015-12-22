@@ -4,7 +4,7 @@ description: Academic Portfolio
 google_analytics: UA-64593219-1
 # Build settings
 url: http://www.charmainebonifacio.com
-permalink: pretty
+permalink: none
 markdown: kramdown
 highlighter: pygmentsl
 exclude:
