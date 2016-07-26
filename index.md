@@ -9,7 +9,7 @@ lang: en
     {% include header/header-{{ page.lang }}.html %}
     <div id="overlay"></div>
     <section id="description">
-      <span class="express">Currently pursuing a Master of Science degree in Geography</span>
+      <span class="express">Currently completing a MSc in Geography; looking for full-time work</span>
       <span class="description">University of Lethbridge</span>
     </section>
 </section>
@@ -18,19 +18,19 @@ lang: en
 
   <div id="boxes" class="clearfix">
       <div id="research">
-          <h3>RESEARCH</h3> My current research requires an intensive amount of pre-processing and post-processing data for the Agricultural Catchments Research Unit (ACRU) hydrological model.
+          <h3>RESEARCH</h3> My current research requires an extensive amount of data pre-processing, post-processing and analysis for the Agricultural Catchments Research Unit (ACRU) hydrological model.
       </div>
 
       <div id="coding">
-          <h3>CODING</h3> There's always the need to learn new artificial languages and improve our current knowledge. Check out my <a href="http://www.github.com/charmainebonifacio">Github</a> page for a list of tools I have created.
+          <h3>CODING</h3> I've always wanted to learn new languages and improve my current knowledge. Check out my <a href="http://www.github.com/charmainebonifacio">Github</a> page for a list of tools I have developed.
       </div>
 
       <div id="teaching">
-          <h3>TEACHING</h3> All graduate students teach a laboratory or tutorial course every Fall/Spring semesters within their respective departments, as per the 2013 ULETH graduate program.
+          <h3>TEACHING</h3> I was assigned four laboratory or tutorial courses while completing my Masters of Science degree at the University of Lethbridge whilst participating in the CAETL teaching program.
       </div>
 
-      <div id="service">
-          <h3>SERVICE</h3> I have been involved in various student organizations around campus and community organizations around Lethbridge
+      <div id="volunteer">
+          <h3>VOLUNTEER</h3> I have been involved in various student organizations around campus and community organizations around Lethbridge.
       </div>
   </div>
 </section>
