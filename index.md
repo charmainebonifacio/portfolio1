@@ -9,8 +9,8 @@ lang: en
     {% include header/header-{{ page.lang }}.html %}
     <div id="overlay"></div>
     <section id="description">
-      <span class="express">Currently completing a MSc in Geography; looking for full-time work</span>
-      <span class="description">University of Lethbridge</span>
+      <span class="express">Completing my MSc in Geography/GIS; Looking for full-time work</span>
+      <span class="description">Lethbridge and Southern Alberta</span>
     </section>
 </section>
 
