@@ -17,7 +17,7 @@ In pre-processing inputs and post-processing outputs for Agricultural Catchments
 
  - a VBA script automated to download Environment Canada data
  - creates a master file for all climate data downloaded
- - see publication for more information
+ - see [publication](http://www.sciencedirect.com/science/article/pii/S009830041400243X) for more information
 
  <br />
 
