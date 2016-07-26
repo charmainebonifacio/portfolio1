@@ -30,7 +30,7 @@ lang: en
       </div>
 
       <div id="service">
-          <h3>SERVICE</h3> I have been involved in various student organizations around campus and community organizations around Lethbridge.</a>
+          <h3>SERVICE</h3> I have been involved in various student organizations around campus and community organizations around Lethbridge
       </div>
   </div>
 </section>

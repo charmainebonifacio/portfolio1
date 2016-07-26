@@ -7,7 +7,7 @@ lang: en
 
 # Publication
 
-### CCDST: A free Canadian climate data scraping tool
+### [CCDST: A free Canadian climate data scraping tool](http://www.sciencedirect.com/science/article/pii/S009830041400243X)
 
 **Authors:**
 Charmaine Bonifacio, Thomas E. Barchyn, Chris H. Hugenholtz, Stefan W. Kienzle
@@ -21,6 +21,8 @@ In this paper we present a new software tool that automatically fetches, downloa
  - Scraping tool
  - Canada
 
+
+ <br />
 
 # Presentations
 
