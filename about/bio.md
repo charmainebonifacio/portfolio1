@@ -17,17 +17,17 @@ After emigrating from the Philippines in 2000, she has lived in New South Wales,
 
 # Research Interests
 
-##INSTITUTION:##
+## INSTITUTION
 University of Lethbridge, Department of Geography
 
-##SUPERVISOR:##
+## SUPERVISOR
 Dr. Stefan Kienzle, Associate Professor of Geography (Hydrology and GIS) and Coordinator of the Environmental Science Program
 
-##STATUS:##
+## STATUS
 Full-time Graduate Student, Master of Science in Geography/Research and Teaching Assistant.
 
-##PROJECT DESCRIPTION:##
-Estimation of water availability in the Oldman Reservoir by coupling the Agricultural Catchments Research Unit (ACRU) model with land and climate change scenerios (title pending)
+## PROJECT DESCRIPTION
+Developing ACRU Utilities for modelling future water availability: a case study of the Oldman Reservoir Watershed, Alberta
 
-##KEY INTERESTS:##
-Modelling, Watershed, Hydrology, GIS Analysis, Mapping
+## KEY INTERESTS
+modelling, watershed, hydrology, GIS Analysis, mapping, coding, climate change, rcm

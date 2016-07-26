@@ -7,13 +7,13 @@ lang: en
 
 # Coding
 
-In pre-processing inputs and post-processing outputs for Agricultural Catchments Research Unit (ACRU) model, individual and combination of VBA, Python and Fortran scripts were created at Kienzle Watershed Research lab in the University of Lethbridge.
+In data pre-processing and post-processing for the Agricultural Catchments Research Unit (ACRU) model, numerous VBA, Python and Fortran scripts were developed at the Kienzle Watershed Research lab in the University of Lethbridge.
 
  <br />
 
 ## Partial list of tools:
 
-###"CCDST: A free Canadian climate data scraping tool"
+### CCDST: A free Canadian climate data scraping tool
 
  - a VBA script automated to download Environment Canada data
  - creates a master file for all climate data downloaded

@@ -25,6 +25,6 @@ Dr. Derek Peddle
 
 ### Geography 4740
 Advanced Geographical Information Systems (GIS)
-Dr. Stefan Kienzle and Dr. Ravi Virk (Academic Assistant)
+Dr. Stefan Kienzle and Dr. Ravinder Virk (Academic Assistant)
 
 <br />

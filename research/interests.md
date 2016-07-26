@@ -7,7 +7,7 @@ lang: en
 
 # Publication
 
-###"CCDST: A free Canadian climate data scraping tool"
+### CCDST: A free Canadian climate data scraping tool
 
 **Authors:**
 Charmaine Bonifacio, Thomas E. Barchyn, Chris H. Hugenholtz, Stefan W. Kienzle
@@ -24,12 +24,12 @@ In this paper we present a new software tool that automatically fetches, downloa
 
 # Presentations
 
-##GRADUATE:##
+## GRADUATE
 **"Improvements of Physically-Based Hydrological Modelling using the ACRU Agro-Hydrological Modelling System"**
-- poster presentation at the American Geophysical Union 2014 (submitted August 2014) - pending
+- poster presentation at the American Geophysical Union 2014 (submitted August 2014)
 
 
-##UNDERGRADUATE:##
+## UNDERGRADUATE
 **"Income Polarization in Calgary's Neighbourhoods (1995-2005)**
  - poster presentation using Prezi for Geography 3750 (GIS Applications in Human Geography) at University of Lethbridge
 
