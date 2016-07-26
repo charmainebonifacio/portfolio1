@@ -15,6 +15,8 @@ She has been actively involved in various student organizations around campus an
 
 After emigrating from the Philippines in 2000, she has lived in New South Wales, Australia and the Greater Toronto Area along with her parents and four younger sisters. She currently resides in Lethbridge, Alberta with her parents, siblings and two dogs, Charly and Niro.
 
+
+
 # Research Interests
 
 ## INSTITUTION
