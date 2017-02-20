@@ -1,0 +1,39 @@
+<header>
+  <div id="mobile-menu">
+      <div id="nav-button" class="fa fa-bars fa-2x button"></div>
+  </div>
+  <div id="logo">
+    <a href="/" class="express">Charmaine Bonifacio</a>
+  </div>
+  <div id="navbar">
+      <ul id="navmenu">
+          <li>
+            <a href="{% if page.lang == 'en' %}/{% else %}/{{ page.lang }}/{% endif %}" id="home-menu"{% if page.menu == 'home' %} class="active"{% endif %}><i class="fa fa-home fa-lg"></i></a>
+          </li>
+          <li>
+            <a href="{% if page.lang != 'en' %}/{{ page.lang }}{% endif %}/about/bio.html"{% if page.menu == 'about' %} class="active"{% endif %}><i class="fa fa-info fa-lg"></i></a>
+          </li>
+          <li>
+            <a href="{% if page.lang != 'en' %}/{{ page.lang }}{% endif %}/about/awards.html"{% if page.menu == 'about' %} class="active"{% endif %}><i class="fa fa-trophy fa-lg"></i></a>
+          </li>
+          <li>
+              <a href="{% if page.lang != 'en' %}/{{ page.lang }}{% endif %}/research/interests.html"{% if page.menu == 'research' %} class="active"{% endif %}><i class="fa fa-briefcase fa-lg"></i></a>
+          </li>
+          <li>
+            <a href="{% if page.lang != 'en' %}/{{ page.lang }}{% endif %}/research/code.html"{% if page.menu == 'research' %} class="active"{% endif %}><i class="fa fa-code fa-lg"></i></a>
+          </li>
+          <li>
+            <a href="{% if page.lang != 'en' %}/{{ page.lang }}{% endif %}/teaching/courses.html"{% if page.menu == 'teaching' %} class="active"{% endif %}><i class="fa fa-pencil fa-lg"></i></a>
+          </li>
+          <li>
+            <a href="{% if page.lang != 'en' %}/{{ page.lang }}{% endif %}/volunteer/list.html"{% if page.menu == 'volunteer' %} class="active"{% endif %}><i class="fa fa-pagelines fa-lg"></i></a>
+          </li>
+          <li>
+            <a href="https://ca.linkedin.com/in/charmainebonifacio" id="home-menu"><i class="fa fa-linkedin fa-lg"></i></a>
+          </li>
+          <li>
+            <a href="https://github.com/charmainebonifacio" id="home-menu"><i class="fa fa-github fa-lg"></i></a>
+          </li>
+      </ul>
+  </div>
+</header>

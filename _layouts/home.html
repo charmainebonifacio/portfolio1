@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang }}">
+
+  {% include head.html %}
+
+  <body>
+
+    {% if page.lang != 'en' %}
+      <div id="i18n-notice-box" class="doc-box doc-warn">
+        {% include i18n-notice.html %}
+      </div>
+    {% endif %}
+
+    {{ content }}
+
+    {% include footer/footer-{{ page.lang }}.html %}
+
+  </body>
+
+</html>

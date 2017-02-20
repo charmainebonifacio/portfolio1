@@ -1,0 +1,13 @@
+# Site settings
+name: Charmaine Bonifacio
+description: Academic Portfolio
+google_analytics: UA-64593219-1
+# Build settings
+url: http://www.charmainebonifacio.com
+permalink: none
+markdown: kramdown
+highlighter: pygmentsl
+exclude:
+    - LICENSE
+    - README.md
+    - CNAME
